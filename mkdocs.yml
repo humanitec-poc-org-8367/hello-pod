@@ -1,0 +1,7 @@
+site_name: 'hello-pod Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
